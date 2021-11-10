@@ -1,0 +1,23 @@
+header {
+    background-color: rgb(41, 168, 168);
+}
+img {
+    display: block;
+}
+code {
+    font-size: large;
+    font-weight: bold;
+}
+main {
+    background-color: pink;
+}
+footer {
+    background-color: grey;
+}
+p {
+    font-style: normal;
+    font-size: large;
+}
+p a, pre p {
+    font-size: small;
+}
